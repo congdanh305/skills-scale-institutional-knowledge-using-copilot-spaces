@@ -26,6 +26,9 @@ At OctoAcme, we follow a customer-first, iterative approach to project delivery.
 - **Product Manager (PdM)**: Defines outcomes, prioritizes the backlog, and measures success
 - **Developers**: Implement features, collaborate on design and testability
 - **QA/Testing**: Validate quality and acceptance criteria
+- **Release Manager**: Coordinates end-to-end release process and deployment safety
+- **Communications Lead**: Develops communication strategies and manages stakeholder messaging
+- **Project Sponsor**: Provides executive oversight, secures resources, and makes strategic decisions
 - **Stakeholders**: Provide inputs, feedback, and approvals
 
 ## Project Lifecycle
@@ -64,7 +67,7 @@ Standardized release procedures to reduce risk and improve observability. Covers
 Framework for capturing learnings and converting them into actionable improvements after sprints, releases, or incidents.
 
 ### 👥 [Roles & Personas](octoacme-roles-and-personas.md)
-Detailed definitions of roles and responsibilities for Developers, Product Managers, and Project Managers, including their goals and typical communication patterns.
+Detailed definitions of roles and responsibilities for all project team members, including Developers, Product Managers, Project Managers, Release Manager, Communications Lead, Project Sponsor, and Stakeholders. Includes role interaction matrix showing touchpoints, handoffs, and decision rights.
 
 ## Communication Cadence
 
@@ -86,12 +89,26 @@ Throughout the project lifecycle, teams maintain the following artifacts:
 - **Risk Register**: Tracked risks with mitigation plans
 - **Retrospective Notes**: Learnings and action items for improvement
 
+## Templates & Checklists
+
+The following templates and checklists help teams execute consistent, high-quality processes:
+
+### 📋 [Release Manager Checklist](release-manager-checklist.md)
+Comprehensive pre-release, deployment, and post-release checklist to ensure safe and successful releases. Covers planning, technical readiness, deployment execution, and rollback procedures.
+
+### 📝 [Stakeholder Feedback Form](stakeholder-feedback-form.md)
+Structured template for collecting stakeholder feedback at project milestones. Helps assess project alignment, communication effectiveness, and risk awareness.
+
+### 📢 [Communication Flow Template](communication-flow-template.md)
+Complete communication planning framework including stakeholder matrix, communication cadence, templates for status updates, release announcements, and escalations.
+
 ## Using These Documents
 
 ### For New Team Members
 1. Start with the [Project Management Overview](octoacme-project-management-overview.md)
 2. Review [Roles & Personas](octoacme-roles-and-personas.md) to understand your role
 3. Familiarize yourself with the full project lifecycle documentation
+4. Review relevant templates and checklists for your role
 
 ### For Active Projects
 - Reference the relevant phase guide (Initiation, Planning, Execution, Release)
@@ -120,4 +137,5 @@ These processes are living documents that evolve based on team feedback and lear
 
 ---
 
-**Last Updated**: 2026-02-01
+**Last Updated**: 2026-02-01  
+**Related Issue**: [#4 - Process Improvements for Role Definitions and Documentation Clarity](https://github.com/congdanh305/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4)

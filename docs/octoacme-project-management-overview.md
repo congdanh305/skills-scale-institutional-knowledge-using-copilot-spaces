@@ -18,6 +18,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Release Manager: coordinates end-to-end release process and deployment safety.
+- Communications Lead: develops communication strategies and manages stakeholder messaging.
+- Project Sponsor: provides executive oversight, secures resources, makes strategic decisions.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
@@ -44,3 +47,9 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Review [Roles & Personas](octoacme-roles-and-personas.md) for detailed role definitions and interaction patterns.
+- Use templates and checklists in the [docs folder](README.md) for standardized processes.
+
+---
+
+**Related Issue**: [#4 - Process Improvements for Role Definitions and Documentation Clarity](https://github.com/congdanh305/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4)
